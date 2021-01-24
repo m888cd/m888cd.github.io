@@ -7,6 +7,9 @@ header {
     background-color: rgb(75, 75, 75);
     text-align: center;
 }
+header .boxshadowdef {
+    box-shadow:1em 1em 1em black;
+}
 nav {
     background-color: rgb(63, 63, 63);
 }
